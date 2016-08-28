@@ -1,0 +1,24 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diondree/meadowlark.git"
+  },
+  "author": "Diondre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diondree/meadowlark/issues"
+  },
+  "homepage": "https://github.com/diondree/meadowlark#readme"
+}
