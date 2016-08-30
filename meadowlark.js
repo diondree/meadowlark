@@ -10,6 +10,8 @@ app.set('view engine', 'handlebars');
 
 app.use(express.static(__dirname + '/public'));
 
+//Disables Express's default X-Powered-By header
+app.disable('x-powered-by');
 
 app.set('port', process.env.PORT || 3000);
 
